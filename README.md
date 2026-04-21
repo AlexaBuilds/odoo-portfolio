@@ -1,10 +1,10 @@
-# 🚀 Odoo Enterprise Developer Portfolio
+#  Odoo Enterprise Developer Portfolio
 
 ## Omnichannel Connector (Proyecto Enterprise Privado)
 
 Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas de e-commerce.
 
-### 🎯 Características Principales
+###  Características Principales
 
 - **Integración BigBuy API**: Sincronización completa de catálogo (30,000+ productos), stock en tiempo real y gestión automatizada de pedidos
 - **Integración TEMU Seller API**: Publicación de productos, sincronización de inventario y tracking de envíos
@@ -12,7 +12,7 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 - **Sincronización Bidireccional**: Stock, precios, pedidos y estados de envío
 - **Arquitectura Modular**: Diseño extensible para agregar nuevos marketplaces
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 - **Framework**: Odoo 18 Enterprise
 - **Lenguaje**: Python 3.11
@@ -22,7 +22,7 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 - **APIs**: REST, OAuth2, Webhooks
 - **Control de versiones**: Git + GitHub
 
-### 📊 Métricas del Proyecto
+###  Métricas del Proyecto
 
 - 📦 **50+ modelos personalizados** con herencia múltiple
 - 🔄 **20+ wizards** de sincronización y configuración
@@ -31,7 +31,7 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 - 🔐 **Gestión segura** de credenciales API
 - 📝 **Sistema de logging** completo para auditoría
 
-### 💡 Competencias Técnicas Demostradas
+###  Competencias Técnicas Demostradas
 
 #### Odoo Framework
 - [x] Modelos ORM complejos con `_inherit` y `_inherits`
@@ -67,7 +67,7 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 - [x] Documentación técnica completa
 - [x] Pruebas y validación de datos
 
-### 📈 Casos de Uso Resueltos
+###  Casos de Uso Resueltos
 
 1. **Sincronización masiva de catálogos**: Importación y actualización de 30,000+ productos con variantes
 2. **Gestión de stock multi-plataforma**: Actualización en tiempo real entre Odoo y marketplaces
@@ -75,14 +75,14 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 4. **Mapeo inteligente de atributos**: Conversión automática entre sistemas de variantes diferentes
 5. **Gestión de errores en producción**: Sistema robusto de logging y recuperación
 
-### 🔒 Disponibilidad del Código
+###  Disponibilidad del Código
 
 El código fuente completo está disponible bajo **NDA** para:
 - Clientes enterprise
 - Oportunidades de colaboración
 - Procesos de selección técnica
 
-### 📫 Contacto
+###  Contacto
 
 Para consultas sobre el proyecto o colaboraciones: alexamarques@erpcrm-marketing.com | [LinkedIn](https://www.linkedin.com/in/alexa-m-m/)
 
