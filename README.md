@@ -24,12 +24,12 @@ Conector avanzado para Odoo 18 que integra múltiples marketplaces y plataformas
 
 ###  Métricas del Proyecto
 
-- 📦 **50+ modelos personalizados** con herencia múltiple
-- 🔄 **20+ wizards** de sincronización y configuración
-- 📋 **100+ vistas XML** (tree, form, kanban, pivot)
-- ⚡ **Procesamiento asíncrono** con ir.cron
-- 🔐 **Gestión segura** de credenciales API
-- 📝 **Sistema de logging** completo para auditoría
+-  **50+ modelos personalizados** con herencia múltiple
+-  **20+ wizards** de sincronización y configuración
+-  **100+ vistas XML** (tree, form, kanban, pivot)
+-  **Procesamiento asíncrono** con ir.cron
+-  **Gestión segura** de credenciales API
+-  **Sistema de logging** completo para auditoría
 
 ###  Competencias Técnicas Demostradas
 
