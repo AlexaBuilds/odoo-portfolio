@@ -1,4 +1,4 @@
-# 🎯 Competencias Técnicas Detalladas
+#  Competencias Técnicas Detalladas
 
 ## Desarrollo Odoo Enterprise
 
@@ -127,7 +127,7 @@
 
 ---
 
-## 📚 Aprendizaje Continuo
+##  Aprendizaje Continuo
 
 Constantemente actualizándome en:
 - Nuevas versiones de Odoo (actualmente 18.0)
@@ -138,7 +138,7 @@ Constantemente actualizándome en:
 
 ---
 
-## 🏆 Logros Destacados
+##  Logros Destacados
 
 - ✅ Migración exitosa de Odoo 17 a Odoo 18
 - ✅ Integración de APIs complejas con documentación limitada
